@@ -27,9 +27,9 @@ class _ItemListViewState extends State<ItemListView> {
 
   @override
   void initState() {
+    super.initState();
     apiService = ApiService();
     buscarItens();
-    super.initState();
   }
 
   Future<void> buscarItens() async {
