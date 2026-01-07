@@ -1,4 +1,4 @@
-# ToDoListFluter
+# ToDoListFlutter
 
 A To Do List Flutter project.
 
